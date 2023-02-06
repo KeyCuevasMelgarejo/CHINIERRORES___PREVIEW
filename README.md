@@ -5,7 +5,7 @@
 # Chinierrores - Demo
 ![](Demo.gif)
 
-# Chinierrores - Inicialización
+# Inicialización
 
 **Clona y ejecuta el programa para ver a Chinierrores en uso**
 
